@@ -6,7 +6,7 @@ var __webpack_exports__ = {};
 class Test {
   constructor() {
     this.main = () => {
-      console.log('no other instructors got swagger like us');
+      console.log('Test');
     };
   }
 }
@@ -15,4 +15,4 @@ const test = new Test();
 test.main();
 /******/ })()
 ;
-//# sourceMappingURL=main.3594959feb1c80b171c6186912fbb1b9.js.map
+//# sourceMappingURL=main.dc04ae93cfb6aea1ab16ed4a522048f3.js.map
