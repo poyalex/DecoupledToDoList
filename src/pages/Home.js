@@ -6,11 +6,8 @@ export default function Home(props) {
 			<center>
 			<h1>This is the {props.page} page</h1>
 				<div>
-				Test
+				Placeholder text
 				</div>
-				<div>
-				Test
-				</div>				
 			</center>
 		</div>
 	) 
