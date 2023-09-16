@@ -1,5 +1,5 @@
 import styles from './TodoList.module.scss'
-import Todo from '../Todo/Todo'
+import Todo from '../Todo/Todo.js'
  
 export default function TodoList ({ 
     newTodo, 
