@@ -1,40 +1,14 @@
+## Introduction
+-This is a ToDo list application where you are able to create, view, and delete todo list items
+## Icebox Items
+-Add functionality for a user to send themselves an email with a list of their todo list
+## Planning Documents
+-ERD Chart: [Link] (https://imgur.com/a/SE0r0uc) <br>
+-Wireframe: [Link] (https://imgur.com/a/Ajfa58s)
 
+
+<!-- **
 ## Steps
 
 **Install Gulp Globally**
-```bash
-npm i -g gulp-cli
-```
-
-**Start the dev server**
-```bash
-npm run dev
-```
-### or
-```bash
-yarn dev
-```
-
-**Start the dev server with proxy**
-```bash
-npm run proxy
-```
-
-**Build files for production**
-```bash
-yarn build
-```
-### or
-
-```bash
-npm run build
-```
-
-**Deploy for production script**
-```bash
-npm start
-```
-### or
-```bash
-yarn start
-```
+```bash -->
